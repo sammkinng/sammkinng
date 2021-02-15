@@ -1,0 +1,53 @@
+html,body{
+margin: 0;
+height: 100%;
+width: 100%;
+background: radial-gradient(royalblue,navy);
+}
+h1{
+    background-image: linear-gradient(goldenrod,rgb(150, 109, 6));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    
+}
+table{
+    width: 500px;
+    margin: 0 auto;
+    height: 300px;
+}
+thead{
+    background: chartreuse;
+    height: 33.3333%;
+    color: navy;
+}
+#screen,#ans{
+    text-align: right;
+}
+button{
+    width: 100%;
+}
+td{
+    background: darkkhaki;
+    width: 150px;
+    color: navy;
+    text-align: center;
+}
+
+table,td,tr{
+    border:  1px solid darkgoldenrod;
+}
+
+#cal{
+    width: 15%;
+}
+
+@media screen and (max-width: 800px) {
+    table{
+        width: 350px;
+    }
+    thead{
+        height: 25%;
+    }
+}
