@@ -20,6 +20,7 @@
 <h3 align="left">▶ Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sammkinng"> <img  src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="50" width="210" alt="CodeBucks" ></img></a></p>
 
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 - 🔭 Portfolio website: <a href="https://sammkinng.in" target="_blank" >Portfolio</a>
 
@@ -43,8 +44,7 @@ Latest Articles👇: </br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sammkinng&show_icons=true&locale=en" alt="sammkinng" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sammkinng&" alt="sammkinng" /></p> -->
-<!-- </br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sammkinng&" alt="sammkinng" /></p> 
 
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+
